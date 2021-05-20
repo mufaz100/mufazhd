@@ -19,7 +19,7 @@ Alternatively, [find me on telegram](https://t.me/Mufazhd)! (Keep all support qu
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufaz100/mufaz100)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mufaz100/mufazhd)
 
 ## Starting the bot.
 
